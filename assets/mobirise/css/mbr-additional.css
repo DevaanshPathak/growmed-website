@@ -1499,3 +1499,101 @@ a {
 .cid-u7rWi8FUmR .mbr-section-btn {
   text-align: center;
 }
+.cid-u7s0mjtuY0 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-u7s0mjtuY0 .mbr-text {
+  color: #000000;
+}
+.cid-u7s0mjtuY0 .mbr-section-subtitle {
+  color: #000000;
+  text-align: center;
+}
+.cid-u7s0mjtuY0 .mbr-section-title {
+  color: #000000;
+  text-align: left;
+}
+.cid-u7s0mjtuY0 .mbr-section-subtitle,
+.cid-u7s0mjtuY0 .main-button {
+  text-align: left;
+  color: #000000;
+}
+.cid-u7s0mjtuY0 .main-button {
+  margin-bottom: 2rem;
+}
+@media (max-width: 767px) {
+  .cid-u7s0mjtuY0 .main-button {
+    margin-bottom: 2rem;
+  }
+}
+.cid-u7s0mjtuY0 .mbr-iconfont {
+  font-size: 1.2rem !important;
+  font-family: 'Moririse2' !important;
+  color: white;
+  transition: all 0.3s;
+  transform: rotate(180deg);
+  padding-left: 0.5rem;
+}
+.cid-u7s0mjtuY0 .panel-group {
+  border: none;
+}
+.cid-u7s0mjtuY0 .card-header {
+  padding: 0rem;
+}
+@media (max-width: 767px) {
+  .cid-u7s0mjtuY0 .card-header {
+    padding: 0rem;
+  }
+}
+.cid-u7s0mjtuY0 .panel-body {
+  padding: 0rem;
+  padding-bottom: 0.5rem;
+  margin-top: 1rem;
+}
+.cid-u7s0mjtuY0 .collapsed span {
+  transform: rotate(0deg);
+}
+.cid-u7s0mjtuY0 .panel-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cid-u7s0mjtuY0 p {
+  margin-bottom: 0.3rem;
+}
+.cid-u7s0mjtuY0 .panel-title-edit {
+  color: #000000;
+}
+.cid-u7s0mjtuY0 .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
+  border: 0;
+  border-radius: 2rem;
+}
+.cid-u7s0mjtuY0 .card {
+  background: #ffffff;
+  padding: 2.25rem;
+  border-radius: 2rem;
+  margin-bottom: 1rem;
+}
+@media (max-width: 767px) {
+  .cid-u7s0mjtuY0 .card {
+    padding: 2rem 1.5rem;
+    margin-bottom: 1rem;
+  }
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+  .cid-u7s0mjtuY0 .card {
+    margin-bottom: 1rem;
+    padding: 2rem 1.5rem;
+  }
+}
+.cid-u7s0mjtuY0 .panel-text {
+  color: #000000;
+}
+.cid-u7s0mjtuY0 .panel-title-edit,
+.cid-u7s0mjtuY0 .mbr-iconfont {
+  color: #000000;
+}
